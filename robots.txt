@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://situs88.swiftfest.io/sitemap.xml
+Sitemap : http://gacoor168.zra.com/sitemap.xml
